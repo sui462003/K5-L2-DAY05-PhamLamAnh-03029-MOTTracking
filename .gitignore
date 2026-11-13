@@ -16,3 +16,4 @@ MOT17*/
 # CVAT local lab preparation
 .lab-local/
 .venv/
+data/
